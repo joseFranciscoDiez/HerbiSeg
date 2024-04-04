@@ -17,7 +17,7 @@ These trails are formed by the continuous trampling activity of large herbivores
 
 
 ![alternative](pics/study_area.jpg)
-Study area. Iberian Peninsula map. The images of grazing trails come from
+Study area. Spain map. The images of grazing trails come from
 mountain passes of the Cantabrian mountain range (red rectangle)
 
 
