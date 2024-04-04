@@ -21,6 +21,16 @@ Study area. Iberian Peninsula map. The images of grazing trails come from
 mountain passes of the Cantabrian mountain range (red rectangle)
 
 
+### Results
+![Image 2](pics/imgs_GT_2.png) ![Image 2](pics/imgs_Segformer_2.png)
+Groundtruth                          Segformer
+
+![Image 2](pics/imgs_UpperNet_2.png) ![Image 2](pics/imgs_Beit_2.png)
+Uppernet                             BEIT
+
+**Figure: Image 2**
+
+
 ### Contents:
 
 - **/code**: Contains the implementation of the semantic segmentation algorithms used in the research.
