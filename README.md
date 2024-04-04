@@ -22,6 +22,7 @@ mountain passes of the Cantabrian mountain range (red rectangle)
 
 
 ### Results
+HuggingFace Image 2 / as28.jpg example results.
 ![Image 2](pics/imgs_GT_2.png) 
 Groundtruth                    
 ![Image 2](pics/imgs_Segformer_2.png)
@@ -32,7 +33,6 @@ Uppernet
 ![Image 2](pics/imgs_Beit_2.png)
 BEIT
 
-**Figure: Image 2**
 
 
 ### Contents:
