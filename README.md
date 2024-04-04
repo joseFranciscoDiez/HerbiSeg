@@ -22,11 +22,15 @@ mountain passes of the Cantabrian mountain range (red rectangle)
 
 
 ### Results
-![Image 2](pics/imgs_GT_2.png) ![Image 2](pics/imgs_Segformer_2.png)
-Groundtruth                          Segformer
+![Image 2](pics/imgs_GT_2.png) 
+Groundtruth                    
+![Image 2](pics/imgs_Segformer_2.png)
+Segformer
 
-![Image 2](pics/imgs_UpperNet_2.png) ![Image 2](pics/imgs_Beit_2.png)
-Uppernet                             BEIT
+![Image 2](pics/imgs_UpperNet_2.png) 
+Uppernet                             
+![Image 2](pics/imgs_Beit_2.png)
+BEIT
 
 **Figure: Image 2**
 
