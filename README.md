@@ -26,6 +26,6 @@ mountain passes of the Cantabrian mountain range (red rectangle)
 
 ### Contents:
 
-- **/code**: Contains the implementation of the semantic segmentation algorithms used in the research.
+- **root**: Contains the implementation of the semantic segmentation algorithms used in the research.
 - **/data**: Directory for storing sample data or links to datasets used in the research.
 
